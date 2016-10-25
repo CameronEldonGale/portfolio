@@ -1,0 +1,86 @@
+/*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
+ body{
+   font-family: sans-serif;
+ }
+ .nav-bar{
+   height: 5vh;
+   background: black;
+   color: white;
+   text-transform: uppercase;
+   display: flex;
+   align-items: center;
+ }
+
+ .half-nav{
+   width: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+ }
+ .right-half-nav{
+   justify-content:flex-start;
+ }
+ .link-name{
+   font-size: 16px;
+   margin-left: 1em;
+ }
+
+#link-menu{
+  margin-right: 1em;
+  width: 20px;
+}
+
+.landing{
+  background: url('../img/img-personalSite/road.jpeg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+h1{
+  font-size: 250%;
+  text-align: center;
+}
+.landing p{
+  color: white;
+}
+
+.about{
+  height: 100vh;
+  background: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-pic{
+  background: url('../img/img-personalSite/sheriden-option.jpg');
+  background-position: center;
+  background-size: cover;
+  border-radius:50%;
+  height: 10em;
+  width: 10em;
+}
+.about h2{
+  text-transform: uppercase;
+  font-size: 150%;
+}
+.about p{
+  margin: 1em;
+  text-align: center;
+}
+
+.skills{
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
