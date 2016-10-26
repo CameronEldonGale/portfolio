@@ -1,0 +1,158 @@
+<svg width="272" height="298" viewBox="0 0 272 298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(561 332)" figma:type="canvas">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-561 -98)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-561 -98)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-561 -98)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -525 -61.5)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(-6.12323e-17 -1 1 -6.12323e-17 -325 -62)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path3_fill" transform="translate(-561 -136)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(-561 -136)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(-561 -136)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Line 2" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -290 -102)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -561 -102)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-561 -160)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-561 -160)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-561 -160)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -525 -123.5)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(-6.12323e-17 -1 1 -6.12323e-17 -325 -124)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path3_fill" transform="translate(-561 -198)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask3_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(-561 -198)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(-561 -198)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Line 2" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -290 -164)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -561 -164)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-561 -230)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask4_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-561 -230)"/>
+</mask>
+<g mask="url(#mask4_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-561 -230)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -525 -193.5)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(-6.12323e-17 -1 1 -6.12323e-17 -325 -194)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path3_fill" transform="translate(-561 -268)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask5_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(-561 -268)"/>
+</mask>
+<g mask="url(#mask5_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(-561 -268)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Line 2" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -290 -234)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -561 -234)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-561 -294)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask6_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-561 -294)"/>
+</mask>
+<g mask="url(#mask6_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-561 -294)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -525 -257.5)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path2_fill" transform="matrix(-6.12323e-17 -1 1 -6.12323e-17 -325 -258)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path3_fill" transform="translate(-561 -332)" fill="#56CCF2" style="mix-blend-mode:normal;"/>
+<mask id="mask7_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(-561 -332)"/>
+</mask>
+<g mask="url(#mask7_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(-561 -332)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Line 2" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -290 -298)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path5_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -561 -298)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="SQL" style="mix-blend-mode:normal;" figma:type="text">
+<use xlink:href="#path6_fill" transform="translate(-557.5 -256)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 272 32C 272 49.6731 211.111 64 136 64C 60.8893 64 0 49.6731 0 32C 0 14.3269 60.8893 0 136 0C 211.111 0 272 14.3269 272 32Z"/>
+<path id="path1_stroke_2x" d="M 271 32C 271 35.8165 267.678 39.7706 260.826 43.582C 254.022 47.3714 244.194 50.7715 231.937 53.654C 207.388 59.4324 173.503 63.0014 136 63L 136 65C 173.608 64.9986 207.723 61.4042 232.396 55.6008C 244.751 52.6924 254.839 49.1972 261.799 45.3297C 268.711 41.4842 273 37.0201 273 32L 271 32ZM 136 63C 98.4971 63.0014 64.6119 59.4324 40.0625 53.654C 27.8064 50.7715 17.9777 47.3714 11.1737 43.582C 4.32237 39.7706 1 35.8165 1 32L -1 32C -1 37.0201 3.28879 41.4842 10.2014 45.3297C 17.1613 49.1972 27.2494 52.6924 39.6044 55.6008C 64.2774 61.4042 98.3922 64.9986 136 65L 136 63ZM 1 32C 1 28.1835 4.32237 24.2294 11.1737 20.418C 17.9777 16.6286 27.8064 13.2285 40.0625 10.346C 64.6119 4.56764 98.4971 0.998623 136 1L 136 -1C 98.3922 -0.998623 64.2774 2.5958 39.6044 8.39917C 27.2494 11.3076 17.1613 14.8028 10.2014 18.6703C 3.28879 22.5158 -1 26.9799 -1 32L 1 32ZM 136 1C 173.503 0.998623 207.388 4.56764 231.937 10.346C 244.194 13.2285 254.022 16.6286 260.826 20.418C 267.678 24.2294 271 28.1835 271 32L 273 32C 273 26.9799 268.711 22.5158 261.799 18.6703C 254.839 14.8028 244.751 11.3076 232.396 8.39917C 207.723 2.5958 173.608 -0.998623 136 -1L 136 1Z"/>
+<path id="path2_fill" d="M 21 0L 39.1865 35.25L 2.81347 35.25L 21 0Z"/>
+<path id="path3_fill" d="M 272 32.5C 272 50.4493 211.111 65 136 65C 60.8893 65 0 50.4493 0 32.5C 0 14.5507 60.8893 0 136 0C 211.111 0 272 14.5507 272 32.5Z"/>
+<path id="path4_stroke_2x" d="M 271 32.5C 271 36.3932 267.666 40.4121 260.821 44.2798C 254.017 48.1282 244.19 51.581 231.934 54.5084C 207.386 60.3768 173.502 64.0014 136 64L 136 66C 173.609 65.9986 207.725 62.3478 232.399 56.4536C 244.755 53.4996 254.844 49.9493 261.804 46.0211C 268.723 42.1123 273 37.5814 273 32.5L 271 32.5ZM 136 64C 98.4979 64.0014 64.6144 60.3768 40.0659 54.5084C 27.8103 51.581 17.9829 48.1282 11.1795 44.2798C 4.33381 40.4121 1 36.3932 1 32.5L -1 32.5C -1 37.5814 3.27735 42.1123 10.1956 46.0211C 17.1561 49.9493 27.2454 53.4996 39.6011 56.4536C 64.2749 62.3478 98.3914 65.9986 136 66L 136 64ZM 1 32.5C 1 28.6068 4.33381 24.5879 11.1795 20.7202C 17.9829 16.8718 27.8103 13.419 40.0659 10.4916C 64.6144 4.62317 98.4979 0.99858 136 1L 136 -1C 98.3914 -0.99858 64.2749 2.6522 39.6011 8.54642C 27.2454 11.5004 17.1561 15.0507 10.1956 18.9789C 3.27735 22.8877 -1 27.4186 -1 32.5L 1 32.5ZM 136 1C 173.502 0.99858 207.386 4.62317 231.934 10.4916C 244.19 13.419 254.017 16.8718 260.821 20.7202C 267.666 24.5879 271 28.6068 271 32.5L 273 32.5C 273 27.4186 268.723 22.8877 261.804 18.9789C 254.844 15.0507 244.755 11.5004 232.399 8.54642C 207.725 2.6522 173.609 -0.99858 136 -1L 136 1Z"/>
+<path id="path5_stroke" d="M 0 0L 38 0L 38 -1L 0 -1L 0 0Z"/>
+<path id="path6_fill" d="M 42.0469 87.9609C 30.4688 84.6328 22.0313 80.5547 16.7344 75.7266C 11.4844 70.8516 8.85938 64.8516 8.85938 57.7266C 8.85938 49.6641 12.0703 43.0078 18.4922 37.7578C 24.9609 32.4609 33.3516 29.8125 43.6641 29.8125C 50.6953 29.8125 56.9531 31.1719 62.4375 33.8906C 67.9688 36.6094 72.2344 40.3594 75.2344 45.1406C 78.2813 49.9219 79.8047 55.1484 79.8047 60.8203L 66.2344 60.8203C 66.2344 54.6328 64.2656 49.7812 60.3281 46.2656C 56.3906 42.7031 50.8359 40.9219 43.6641 40.9219C 37.0078 40.9219 31.8047 42.3984 28.0547 45.3516C 24.3516 48.2578 22.5 52.3125 22.5 57.5156C 22.5 61.6875 24.2578 65.2266 27.7734 68.1328C 31.3359 70.9922 37.3594 73.6172 45.8438 76.0078C 54.375 78.3984 61.0312 81.0469 65.8125 83.9531C 70.6406 86.8125 74.2031 90.1641 76.5 94.0078C 78.8438 97.8516 80.0156 102.375 80.0156 107.578C 80.0156 115.875 76.7812 122.531 70.3125 127.547C 63.8438 132.516 55.1953 135 44.3672 135C 37.3359 135 30.7734 133.664 24.6797 130.992C 18.5859 128.273 13.875 124.57 10.5469 119.883C 7.26563 115.195 5.625 109.875 5.625 103.922L 19.1953 103.922C 19.1953 110.109 21.4688 115.008 26.0156 118.617C 30.6094 122.18 36.7266 123.961 44.3672 123.961C 51.4922 123.961 56.9531 122.508 60.75 119.602C 64.5469 116.695 66.4453 112.734 66.4453 107.719C 66.4453 102.703 64.6875 98.8359 61.1719 96.1172C 57.6562 93.3516 51.2812 90.6328 42.0469 87.9609ZM 175.57 85.7109C 175.57 95.6016 174 104.133 170.859 111.305C 167.719 118.43 163.312 124.008 157.641 128.039L 175.922 142.383L 166.711 150.891L 145.125 133.734C 141.75 134.578 138.187 135 134.438 135C 126.375 135 119.227 133.031 112.992 129.094C 106.758 125.109 101.906 119.461 98.4375 112.148C 95.0156 104.789 93.2578 96.2812 93.1641 86.625L 93.1641 79.2422C 93.1641 69.3984 94.875 60.7031 98.2969 53.1562C 101.719 45.6094 106.547 39.8437 112.781 35.8594C 119.063 31.8281 126.234 29.8125 134.297 29.8125C 142.547 29.8125 149.789 31.8047 156.023 35.7891C 162.305 39.7734 167.133 45.5156 170.508 53.0156C 173.883 60.4688 175.57 69.1875 175.57 79.1719L 175.57 85.7109ZM 162.07 79.1016C 162.07 67.0547 159.656 57.7734 154.828 51.2578C 150.047 44.6953 143.203 41.4141 134.297 41.4141C 125.812 41.4141 119.109 44.6719 114.188 51.1875C 109.312 57.6562 106.805 66.6562 106.664 78.1875L 106.664 85.7109C 106.664 97.4297 109.102 106.664 113.977 113.414C 118.898 120.164 125.719 123.539 134.438 123.539C 143.156 123.539 149.906 120.375 154.688 114.047C 159.469 107.672 161.93 98.5547 162.07 86.6953L 162.07 79.1016ZM 209.953 122.555L 258.469 122.555L 258.469 133.594L 196.383 133.594L 196.383 31.2188L 209.953 31.2188L 209.953 122.555Z"/>
+</defs>
+</svg>
