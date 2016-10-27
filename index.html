@@ -22,7 +22,18 @@
         <h3 class="link">Resume</h3>
         <h3 class="link">Contact</h3> -->
       </div>
+    </section>
+    <section id="menu" class="drop-down-menu-container" style="display: none">
+      <div class="drop-down-menu">
+          <ul>
+            <li><a class="link" id="about">About</a></li>
+            <li><a class="link" id="skills">Skills</a></li>
+            <li><a class="link" id="projects">Projects</a></li>
+            <li><a class="link" id="contact">Contact</a></li>
+            <li><a href="/resources/resume.pdf">Resume</a></li>
 
+          </ul>
+      </div>
     </section>
     <section class="landing">
       <h1>CAMERON <br>GALE</h1>
@@ -30,7 +41,7 @@
         A FULL STACK DEVELOPER
       </p>
     </section>
-    <section class="about">
+    <section class="about" id="about-div">
       <h2>about me</h2>
       <p>
         I'm a full stack web developer living in Utah. I like puzzles. I like to solving problems. I love when I can code elegant solutions.
@@ -40,7 +51,7 @@
         "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - Martin Golding
       </p>
     </section>
-    <section class="skills">
+    <section id="skills-div" class="skills">
       <h2>Skills</h2>
       <div class="skill">
         <div class="hexagon-outer">
@@ -144,7 +155,7 @@
       </div>
   </section>
   <section class="projects">
-    <div class="project">
+    <div id="projects-div" class="project">
       <h2>Projects</h2>
     </div>
     <a href="http://karsync.ninja"><div class="karsync">
@@ -164,7 +175,7 @@
     </div></a>
 
   </section>
-  <section class="contact">
+  <section id="contact-div" class="contact">
     <h2>Contact Me</h2>
     <div class="contact-link email">
       <img src="img/img-personalSite/Envelope_font_awesome.svg" alt="email" />
@@ -190,4 +201,48 @@
     </div>
   </section>
   </body>
+  <script type="text/javascript">
+  window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  }
+    var hamburgerMenu = document.getElementById("link-menu")
+    hamburgerMenu.onclick = function(){
+      var menu = document.getElementById('menu')
+      if (menu.style.display === "none") {
+        function ease(height){
+          height+= 2;
+          setTimeout(function () {
+            // menu.style.height = height +'px';
+            menu.style.transform = 'translate(0,'+height+'px)';
+            if (height < 220) {
+              ease(height)
+            }
+          }, 1);
+        }
+        ease(0);
+        menu.style.display = "inherit";
+      }else {
+        // menu.style.height = 0;
+        menu.style.transform = 'translate(0,-192px)';
+        menu.style.display = "none";
+      }
+    }
+    var aboutPosition = document.getElementById('about-div').getBoundingClientRect()
+    var skillsPosition = document.getElementById('skills-div').getBoundingClientRect()
+    var projectsPosition = document.getElementById('projects-div').getBoundingClientRect()
+    var contactPosition = document.getElementById('contact-div').getBoundingClientRect()
+    document.getElementById('about').onclick = function(){
+      window.scrollTo(0,aboutPosition.top)
+    }
+    document.getElementById('skills').onclick = function(){
+      window.scrollTo(0,skillsPosition.top)
+    }
+    document.getElementById('projects').onclick = function(){
+      window.scrollTo(0,projectsPosition.top)
+    }
+    document.getElementById('contact').onclick = function(){
+      window.scrollTo(0,contactPosition.bottom)
+    }
+
+  </script>
 </html>

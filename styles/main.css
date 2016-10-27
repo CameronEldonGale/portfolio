@@ -3,6 +3,9 @@
     font-family: 'Open Sans', sans-serif;
  }
  .nav-bar{
+   z-index: 99;
+   width: 100%;
+   position: fixed;
    height: 5vh;
    background: black;
    color: white;
@@ -28,6 +31,24 @@
 #link-menu{
   margin-right: 1em;
   width: 20px;
+}
+.drop-down-menu-container{
+  z-index: 98;
+  position: fixed;
+  top: -192px;
+  width: 100%;
+  background: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.drop-down-menu ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.drop-down-menu ul li{
+  margin: 1em;
 }
 
 .landing{
