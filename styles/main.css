@@ -300,5 +300,11 @@ a:hover{
   .spaceTrader img{
     height: 100%;
   }
+  h1{
+    font-size: 500%;
+  }
+  .right-half-nav{
+    justify-content: flex-start;
+  }
 
 }
