@@ -201,5 +201,14 @@
     </div>
   </section>
   </body>
+  <script type="text/javascript">
+  (function() {
+    var hexagons = [...document.getElementsByClassName('hexagon-outer')]
+    var hexagonHeight = hexagons[0].getBoundingClientRect().height
+    hexagons.forEach(function(hexagon, index){
+    hexagon.style.width = hexagonHeight+"px";
+  })()
+
+  </script>
 <script src="main.js" charset="utf-8"></script>
 </html>
