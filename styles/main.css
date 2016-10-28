@@ -288,5 +288,11 @@ a:hover{
     position: absolute;
     bottom: 10vh;
   }
+  .karsync img{
+    height: 100%;
+  }
+  .spaceTrader img{
+    height: 100%;
+  }
 
 }
