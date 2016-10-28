@@ -42,7 +42,7 @@ setHexWidth();
   }
 window.onresize = setHexWidth
 function setHexWidth(){
-  var hexagons = [...document.getElementsByClassName('hexagon-outer')]
+  var hexagons = Array.from(document.getElementsByClassName('hexagon-outer'))
   var hexagonHeight = hexagons[0].getBoundingClientRect().height
   hexagons.forEach(function(hexagon, index){
     hexagon.style.width = hexagonHeight+"px";
