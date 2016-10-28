@@ -1,6 +1,7 @@
 window.onbeforeunload = function () {
   window.scrollTo(0, 0);
 }
+setHexWidth();
   var hamburgerMenu = document.getElementById("link-menu")
   hamburgerMenu.onclick = function(){
     var menu = document.getElementById('menu')
@@ -39,3 +40,11 @@ window.onbeforeunload = function () {
   document.getElementById('contact').onclick = function(){
     window.scrollTo(0,contactPosition.bottom)
   }
+window.onresize = setHexWidth
+function setHexWidth(){
+  var hexagons = [...document.getElementsByClassName('hexagon-outer')]
+  var hexagonHeight = hexagons[0].getBoundingClientRect().height
+  hexagons.forEach(function(hexagon, index){
+    hexagon.style.width = hexagonHeight+"px";
+  })
+}

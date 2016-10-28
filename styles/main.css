@@ -109,6 +109,8 @@ h1{
 h2{
   text-transform: uppercase;
   font-size: 200%;
+  width: 100%;
+  text-align: center;
 }
 .skill{
   width: 100%;
@@ -123,7 +125,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
 }
 .hexagon-outer{
-  width: 50%;
+  /*width: 50%;*/
   height: 30vh;
   display: flex;
   justify-content: center;
@@ -259,4 +261,32 @@ a{
 }
 a:hover{
   text-decoration: underline;
+}
+.link{
+  display: none;
+}
+
+@media (min-width:768px) {
+  .link{
+    display: inherit;
+  }
+  #link-menu{
+    display: none;
+  }
+  .half-nav{
+    justify-content: space-around;
+  }
+  .skills{
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .skill{
+    width: auto;
+  }
+  .landing p{
+    position: absolute;
+    bottom: 10vh;
+  }
+
 }
