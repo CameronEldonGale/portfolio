@@ -73,6 +73,17 @@ h1{
   width: 100%;
   text-align: center;
 }
+.scroll-container{
+  position: absolute;
+  bottom: 1em;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.scroll-container img{
+  height: 2.8em;
+}
 
 .about{
   height: 100vh;
