@@ -31,6 +31,9 @@ setHexWidth();
   document.getElementById('about').onclick = function(){
     window.scrollTo(0,aboutPosition.top)
   }
+  document.getElementById('scrollImg').onclick = function(){
+    window.scrollTo(0,aboutPosition.top)
+  }
   document.getElementById('skills').onclick = function(){
     window.scrollTo(0,skillsPosition.top)
   }
