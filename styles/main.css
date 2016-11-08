@@ -86,7 +86,6 @@ h1{
 }
 
 .about{
-  height: 150vh;
   background: black;
   color: white;
   display: flex;
@@ -103,8 +102,7 @@ h1{
   width: 10em;
 }
 .about h2{
-  margin-top: -10vh;
-  margin-bottom: 10vh;
+  margin-top: 10vh;
 }
 .about p{
   margin: 5em;
