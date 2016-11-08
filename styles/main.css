@@ -86,7 +86,7 @@ h1{
 }
 
 .about{
-  height: 100vh;
+  height: 150vh;
   background: black;
   color: white;
   display: flex;
@@ -107,8 +107,9 @@ h1{
   margin-bottom: 10vh;
 }
 .about p{
-  margin: 1em;
-  text-align: center;
+  margin: 5em;
+  text-align: left;
+  line-height: 2em;
 }
 
 .skills{
